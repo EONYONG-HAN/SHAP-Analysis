@@ -1,0 +1,6 @@
+The random forest model that was trained at this paper, needs 1.0 version of sklearn
+
+So, using 
+conda install scikit-learn=1.0
+or
+pip install scikit-learn=1.0
